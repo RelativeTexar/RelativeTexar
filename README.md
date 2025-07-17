@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🔭 Estudando Ciência da Computação no CEUB, com maior inclinação para a área de Backend.
+- 🔭 Estudando Ciência da Computação no CEUB, com maior inclinação para a área de CyberSec.
 - 🌱 Atualmente focado em aprender e aprimorar minhas habilidades em Python.
 - 🚀 Sempre procurando me desafiar a ir mais além!
 
