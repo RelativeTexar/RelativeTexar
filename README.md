@@ -10,7 +10,7 @@
 
 <br/>
 
-- 🔭 Studying Computer Science at CEUB, with a focus on Backend development.
+- 🔭 Studying Computer Science at CEUB, with a focus on CyberSec.
 - 🌱 Currently learning and improving my skills in Python.
 - 🚀 Always looking to challenge myself to go further!
 
